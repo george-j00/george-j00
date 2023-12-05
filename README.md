@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm self-taught full-stack developer and computer science enthusiast<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 I'm currently learning NEXT.js<br>- ⚡ In my free time I watch anime</p>
+<h3 align="left">I'm self-taught full-stack developer and computer science enthusiast<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 I'm currently learning NEXT.js<br>- ⚡ In my free time I watch anime</h3>
 
 ###
 
