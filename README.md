@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">I'm self-taught full-stack developer and computer science enthusiast<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 I'm currently learning Microservices<br>- ⚡ In my free time I watch anime</h3>
+<h3 align="left">I'm self-taught full-stack developer and computer science enthusiast<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 I'm currently doing freelancing <br>- ⚡ In my free time I do code (No free time)</h3>
 
 ###
 
