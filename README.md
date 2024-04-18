@@ -104,5 +104,6 @@
   [![AniList Badge](https://img.shields.io/badge/-Pepyn0-151F2E?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
 
 </div>
-
-![Snake animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=george-j00&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
