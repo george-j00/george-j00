@@ -41,6 +41,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
+  ![Next JS](https://img.shields.io/badge/Next-0D1117?style=flat&logo=next.js)&nbsp; 
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
@@ -55,7 +56,6 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-0D1117?style=flat&logo=apachekafka)&nbsp;
   ![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat&logo=JSON%20web%20tokens)&nbsp; 
-  ![Next JS](https://img.shields.io/badge/Next-0D1117?style=flat&logo=next.js)&nbsp; 
   ![RabbitMQ](https://img.shields.io/badge/rabbitmq-0D1117?style=flat&logo=rabbitmq)&nbsp;
   ![Redux](https://img.shields.io/badge/redux-0D1117?style=flat&logo=redux)&nbsp; 
   ![SASS](https://img.shields.io/badge/SASS-0D1117?style=flat&logo=SASS)&nbsp;
